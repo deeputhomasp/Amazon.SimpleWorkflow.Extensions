@@ -1,7 +1,18 @@
+[![Issue Stats](http://issuestats.com/github/fsprojects/Amazon.SimpleWorkflow.Extensions/badge/issue)](http://issuestats.com/github/fsprojects/Amazon.SimpleWorkflow.Extensions)
+[![Issue Stats](http://issuestats.com/github/fsprojects/Amazon.SimpleWorkflow.Extensions/badge/pr)](http://issuestats.com/github/fsprojects/Amazon.SimpleWorkflow.Extensions)
+
 Amazon.SimpleWorkflow.Extensions
 ==================================
 
 Extensions to AmazonSDK's SimpleWorkflow capabilities to make it more intuitive to use for .Net developers.
+
+
+### Maintainer(s)
+
+- [@theburningmonk](https://github.com/theburningmonk)
+
+The default maintainer account for projects under "fsprojects" is [@fsprojectsgit](https://github.com/fsprojectsgit) - F# Community Project Incubation Space (repo management)
+
 
 ### Amazon SWF ###
 Amazon's Simple Workflow (SWF) service provides a scalable platform for automating processes, or workflows in your application.
@@ -41,7 +52,8 @@ I also have a series of introductory posts on how to use the library to model wo
 - Part 5 - Retries (coming soon)
 
 ### Nuget ###
-Download and install using [NuGet](https://nuget.org/packages/Amazon.SimpleWorkflow.Extensions).
+Download and install using [NuGet](https://nuget.org/packages/Amazon.SimpleWorkflow.Extensions). 
+[![NuGet Status](http://img.shields.io/nuget/v/Amazon.SimpleWorkflow.Extensions.svg?style=flat)](https://www.nuget.org/packages/Amazon.SimpleWorkflow.Extensions/)
 
 <a href="https://nuget.org/packages/Amazon.SimpleWorkflow.Extensions"><img src="http://theburningmonk.com/images/swf-extension-nuget-install.png" alt="NuGet package"/></a>
 
